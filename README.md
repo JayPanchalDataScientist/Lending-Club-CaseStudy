@@ -11,6 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+### Situation : 
+- The company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
+
+### Task :
 - This project is a EDA case study to analyse loan data and find patterns to identify if a customer is likely to default
 - Our main objective is to minimise the risk of financial loss while lending money to customer 
 - Two types of risk:
@@ -18,9 +22,10 @@
  2. Not likely to repay loan; approving will cause financial loss
 - The dataset that is being used is loan dataset
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+### Action :
+ - We have to EDA. First we clean the data and After That we Perform Univariate Analysis, Segmented Univariate Analysis, Bivariate Analysis, Multivariate Analysis Identify the Customer Behaviour and then We decide  will Likely to Pay the Loan or Not.
 
-## Conclusions
+### Result : 
 - 86% customers have fully paid the loan but 14% have been charged off. Default rate is 14%
 - Frequency of small businesses defaulting is very high compared to others. Parameters to give loan to small business should be made more stringent in order to avoid financial loss
 - Increasing trend in default rate from Grade A to G. E, F, G grade customers are responsible for majority default.
@@ -42,7 +47,7 @@ References:
 
 
 ## Contact
-Created by [@scpowar] and [@Prithvi25298]- feel free to contact us!
+Created by [@JayPanchalDataScientist]- feel free to contact us!
 
 
 <!-- Optional -->
